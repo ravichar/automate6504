@@ -10,16 +10,16 @@
   <!-- UPDATE THE VERSION EACH RELEASE -->
   <version>1.0.0</version>
 
-  <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
-  <groupId>GITHUB_USERNAME</groupId>
+  <!-- REPLACE WITH YOUR ravichar -->
+  <groupId>ravichar</groupId>
 
   <distributionManagement>
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
 
-      <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/GITHUB_USERNAME/GITHUB_REPONAME</url>
+      <!-- REPLACE WITH YOUR ravichar and automate6504 -->
+      <url>https://maven.pkg.github.com/ravichar/automate6504</url>
 
     </repository>
   </distributionManagement>
